@@ -1,0 +1,67 @@
+{
+"total_size": 5,
+"type_id":3,
+"offset": 0,
+"products": [
+        {
+            "id":3,
+            "name": "chines",
+            "description":"",
+            "price": 150,
+            "star": 4,
+            "img": "imge/food3.png",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":3
+        },
+        {
+            "id":4,
+            "name": "pasta",
+            "description":"",
+            "price": 300,
+            "star": 5,
+            "img": "imge/food4.jpg",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":3
+        },
+        {
+            "id":5,
+            "name": "noodels",
+            "description":"",
+            "price": 250,
+            "star": 4.7,
+            "img": "imge/food5.jpg",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":3
+        },
+        {
+            "id":8,
+            "name": "sandwich",
+            "description":"",
+            "price": 150,
+            "star": 4.5,
+            "img": "imge/food8.png",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":3
+        },
+        {
+            "id":9,
+            "name": "juice",
+            "description":"",
+            "price": 100,
+            "star": 3.9,
+            "img": "",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":3
+        }
+]
+}

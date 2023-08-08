@@ -1,0 +1,67 @@
+{
+"total_size": 6,
+"type_id":2,
+"offset": 0,
+"products": [
+        {
+            "id":1,
+            "name": "pizza",
+            "description":"",
+            "price": 500,
+            "star": 5,
+            "img": "imge/food1.png",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":2
+        },
+        {
+            "id":2,
+            "name": "donut",
+            "description":"imge/food2.jpg",
+            "price": 250,
+            "star": 4.8,
+            "img": "",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":2
+        },
+        {
+            "id":6,
+            "name": "burgur",
+            "description":"imge/food6.jpg",
+            "price": 99,
+            "star": 4.5,
+            "img": "",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":2
+        },
+        {
+            "id":7,
+            "name": "paratha",
+            "description":"",
+            "price": 200,
+            "star": 4.9,
+            "img": "imge/food7.jpg",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":2
+        },
+        {
+            "id":10,
+            "name": "biryani",
+            "description":"",
+            "price": 400,
+            "star": 5,
+            "img": "",
+            "location": "",
+            "created_at": "",
+            "updated_at": "",
+            "type_id":2
+        }
+]
+}
